@@ -12,7 +12,35 @@ This project analyzes global happiness data using the United Nations World Happi
 - **Programming Language:** Python
 - - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 
+## How to Run
+1. Clone the repository:
+git clone https://github.com/Aundrila Acharjee/World-Happiness-Analysis.git
 
-\\\
 git clone https://github.com/yourusername/World-Happiness-Analysis.git
-\\\
+
+markdown
+Copy code
+2. Install required Python libraries:
+\
+pip install pandas numpy matplotlib seaborn
+
+markdown
+
+3. Run the analysis script using Jupyter Notebook or a Python IDE.
+
+## Authors
+- **Aundrila Acharjee**
+- **Group Members**: Md Jahid Hossain Any, Nikos Yousef, Ijeoma Doris Ogbugha
+
+## License
+This project is open-source under the MIT License.
+You can use this as a guide to format your README.md. Open it in any text editor or the GitHub editor and paste the Markdown text! Let me know if you have more questions.
+
+
+
+
+
+
+
+
+
