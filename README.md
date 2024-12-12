@@ -16,13 +16,10 @@ This project analyzes global happiness data using the United Nations World Happi
 1. Clone the repository:
 git clone https://github.com/Aundrila Acharjee/World-Happiness-Analysis.git
 
-git clone https://github.com/yourusername/World-Happiness-Analysis.git
-
-markdown
-Copy code
 2. Install required Python libraries:
 \
 pip install pandas numpy matplotlib seaborn
+\
 
 markdown
 
