@@ -23,13 +23,13 @@ pip install pandas numpy matplotlib seaborn
 
 3. Run the analysis script using Jupyter Notebook or a Python IDE.
 
-## Authors
+## Author
 - **Aundrila Acharjee**
-- **Group Members**: Md Jahid Hossain Any, Nikos Yousef, Ijeoma Doris Ogbugha
+
 
 ## License
 This project is open-source under the MIT License.
-You can use this as a guide to format your README.md. Open it in any text editor or the GitHub editor and paste the Markdown text! Let me know if you have more questions.
+
 
 
 
