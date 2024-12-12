@@ -10,13 +10,14 @@ This project analyzes global happiness data using the United Nations World Happi
 
 ## Tools and Libraries
 - **Programming Language:** Python
-- - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 
 ## How to Run
 1. Clone the repository:
 git clone https://github.com/Aundrila Acharjee/World-Happiness-Analysis.git
 
 2. Install required Python libraries:
+3. markdown
 \
 pip install pandas numpy matplotlib seaborn
 \
