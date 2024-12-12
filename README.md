@@ -20,7 +20,7 @@ git clone https://github.com/Aundrila/World-Happiness-Analysis.git
 2. Install required Python libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn
----
+```
 3. Run the analysis script using Jupyter Notebook or a Python IDE.
 
 ## Insights
