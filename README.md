@@ -15,12 +15,12 @@ This project analyzes global happiness data using the United Nations World Happi
 ## How to Run
 1. Clone the repository:
 ```bash
-git clone [GitHub]https://github.com/Aundrila/World-Happiness-Analysis.git
+git clone https://github.com/Aundrila/World-Happiness-Analysis.git
 ```
 2. Install required Python libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn
-```
+---
 3. Run the analysis script using Jupyter Notebook or a Python IDE.
 
 ## Insights
