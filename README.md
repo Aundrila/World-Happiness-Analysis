@@ -16,13 +16,15 @@ This project analyzes global happiness data using the United Nations World Happi
 1. Clone the repository:
 ```bash
 git clone https://github.com/Aundrila/World-Happiness-Analysis.git
-
-
-3. Install required Python libraries:
+```
+2. Install required Python libraries:
+```bash
 pip install pandas numpy matplotlib seaborn
+```
+3. Run the analysis script using Jupyter Notebook or a Python IDE.
 
-
-4. Run the analysis script using Jupyter Notebook or a Python IDE.
+## Insights
+The analysis reveals factors like GDP per capita, social support, and perceptions of corruption as major influencers of happiness levels. Countries like Denmark and Finland rank highest, while South Sudan and Togo score the lowest. Gini Index highlights economic disparities.
 
 ## Author
 - **Aundrila Acharjee**
