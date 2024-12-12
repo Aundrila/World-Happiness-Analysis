@@ -7,3 +7,12 @@ This project analyzes global happiness data using the United Nations World Happi
 - **Income Inequality:** Calculates the Gini Index for 2018 to assess wealth disparity.
 - **Country Comparisons:** Compares key factors for Germany, China, and Hong Kong.
 - **Visualizations:** Includes scatter plots, bar charts, and box plots for data insights.
+
+## Tools and Libraries
+- **Programming Language:** Python
+- - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+
+
+\\\
+git clone https://github.com/yourusername/World-Happiness-Analysis.git
+\\\
