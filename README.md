@@ -31,7 +31,7 @@ The analysis reveals factors like GDP per capita, social support, and perception
 
 
 ## License
-This project is open-source under the MIT License.
+TU Dortmund
 
 
 
